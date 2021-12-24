@@ -2,8 +2,8 @@
 
 
 ```
-git clone
-cd pokedex
+git clone https://github.com/Braifz/Pokedex.git
+cd Pokedex
 npm install
 npm start
 ```
